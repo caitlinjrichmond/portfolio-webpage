@@ -13,7 +13,7 @@ body {
 a:link {color: white;}
 a:visited {color: #047B9F;}
 a:hover {color:aquamarine;}
-a:active {color: #BA09C3;}
+a:active {color: #F6ADFA;}
 
 /* styling for the horizontal rules */
 
@@ -25,15 +25,15 @@ hr {
 
 .paragraph-separate {
   height: 1px;
-  background-color:#BA09C3;
-  border: 1px solid #BA09C3;
+  background-color:#F6ADFA;
+  border: 1px solid #F6ADFA;
 }
 
 /* styling for the headings */
 
 .big-heading {
   text-align: center;
-  color: #BA09C3;
+  color: #F6ADFA;
 }
 
 h1 {
@@ -43,7 +43,7 @@ h1 {
 
 h2 {
   text-align: center;
-  color: #BA09C3;
+  color: #F6ADFA;
   font-weight: 50px;
   font-size: 20px;
 }
