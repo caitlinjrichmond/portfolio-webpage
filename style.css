@@ -1,0 +1,95 @@
+/* Background styling of entire page */
+body {
+  background-color: #043565;
+  color: #A7AADD;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  box-sizing: content-box;
+  padding: 0px 400px;
+}
+
+/* styling the links early on so that I can see them more clearly against the blue background and because the first link comes early in the webpage */
+
+a:link {color: white;}
+a:visited {color: #047B9F;}
+a:hover {color:aquamarine;}
+a:active {color: #BA09C3;}
+
+/* styling for the horizontal rules */
+
+hr {
+  background-color: #047B9F;
+  border: 2px solid #047B9F;
+  height: 3px;
+}
+
+.paragraph-separate {
+  height: 1px;
+  background-color:#BA09C3;
+  border: 1px solid #BA09C3;
+}
+
+/* styling for the headings */
+
+.big-heading {
+  text-align: center;
+  color: #BA09C3;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 2px;
+}
+
+h2 {
+  text-align: center;
+  color: #BA09C3;
+  font-weight: 50px;
+  font-size: 20px;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 0px;
+}
+
+/* styling for the intro section */
+
+.image {
+  text-align: center;
+}
+
+.intro-paragraph {
+  text-align: center;
+}
+
+/* styling for article section and interests section */
+
+.about-me {
+  text-align: center;
+}
+
+.tab {
+  text-indent: 20px;
+}
+
+.contact-heading {
+  text-align: center;
+  font-size: 20px;
+}
+
+.contact-me {
+  text-align: justify;
+  list-style-position: inside;
+}
+
+/* footer styling */
+
+footer {
+  text-align: center;
+}
+
+.say-hello {
+  font-size: 30px;
+}
