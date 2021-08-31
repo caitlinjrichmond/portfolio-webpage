@@ -5,7 +5,8 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 18px;
   box-sizing: content-box;
-  padding: 0px 400px;
+  margin: 0 auto;
+  padding: 0px 50px;
 }
 
 /* styling the links early on so that I can see them more clearly against the blue background and because the first link comes early in the webpage */
